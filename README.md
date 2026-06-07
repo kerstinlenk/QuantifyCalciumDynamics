@@ -5,5 +5,5 @@ Mol Med 32, 52 (2026). https://doi.org/10.1186/s10020-026-01450-3
 
 **Contribution to code:** Ghanendra Singh, Andre Zeug, Kerstin Lenk
 
-Run Jupyter Notebook  
-Install libraries if needed
+* Run Jupyter Notebook  
+* Install libraries if needed
