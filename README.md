@@ -1,2 +1,2 @@
-Run Jupiter Notebook
+Run Jupyter Notebook
 Install libraries if needed
